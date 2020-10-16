@@ -9,3 +9,4 @@
 ### 2020-10
 
 + [vue-router实现页面状态与url同步](https://github.com/Jim-Rae/blogs/issues/1)
++ [constructor和instanceof的区别与作用](https://github.com/Jim-Rae/blogs/issues/2)
